@@ -1,0 +1,13 @@
+h1 {
+    color: palevioletred;
+    font-family: Helvetica, sans-serif;
+}
+ul {
+    background: rgb(116, 213, 116);
+    padding: 20px;
+}
+ul li {
+    background: rgb(173, 242, 173);
+    color: darkgreen;
+    padding: 5px;
+}
